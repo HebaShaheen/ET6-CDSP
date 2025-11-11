@@ -10,7 +10,16 @@ Limited internet connectivity, electricity shortages, and the lack of laptops or
 
 Despite these obstacles, the academic community in Gaza has shown resilience—adopting creative solutions such as recorded lectures, mobile-based learning, and flexible assessment methods. This project aims to highlight the impact of war and displacement on higher education, evaluate the effectiveness of online learning in crisis conditions, and propose strategies to strengthen the resilience of universities in future emergencies.
 
-## [M1: Domain Research & Background](https://github.com/)
+## [M1: Domain Research & Background](https://github.com/HebaShaheen/ET6-CDSP/blob/main/0_domain_study/guide.md)
+
+### Education in Gaza: 
+Gaza Strip has experienced repeated conflict and political instability over the past decade. These disruptions have severely affected the education system, including universities. According to reports from UNRWA, UNICEF, and local educational authorities, higher education institutions have faced challenges such as:
+
+**Physical damage** to campus infrastructure.
+
+**Temporary closures** of universities due to security threats.
+
+**Limited access** to electricity and internet connectivity.
 
 ## [M2: Data Collection](https://github.com)
 
