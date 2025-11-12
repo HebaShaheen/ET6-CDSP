@@ -1,5 +1,5 @@
 # 🎓 Domain Study: Education in Gaza (Universities & Online Learning During War)
-🧭 Overview
+## 🧭 Overview
 
 This folder contains all background information, reports, and research resources that help us understand how the war in Gaza over the past two years has affected university education, especially through the shift to online learning.
 It summarizes key findings, highlights knowledge gaps, and organizes the materials that support our project research.
@@ -28,4 +28,4 @@ It summarizes key findings, highlights knowledge gaps, and organizes the materia
 
 ### 🌐 3. Helpful External Resources
 
-## [M2: Higher Education in the Gaza Strip: Challenges and Future Prospects amid and after the October 7 War](https://www.palestine-studies.org/en/node/1656007)
+##### [M2: Higher Education in the Gaza Strip: Challenges and Future Prospects amid and after the October 7 War](https://www.palestine-studies.org/en/node/1656007)
