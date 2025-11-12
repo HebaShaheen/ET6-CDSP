@@ -4,7 +4,7 @@
 This folder contains all background information, reports, and research resources that help us understand how the war in Gaza over the past two years has affected university education, especially through the shift to online learning.
 It summarizes key findings, highlights knowledge gaps, and organizes the materials that support our project research.
 
-### 📘 1. Key Topics Covered
+### 📘 1. Key Topics 
 
 - Impact of war on higher education in Gaza
 
@@ -33,3 +33,13 @@ It summarizes key findings, highlights knowledge gaps, and organizes the materia
 - [The impact of Gaza war: online educational challenges and mental health of university students](https://mecp.springeropen.com/articles/10.1186/s43045-025-00542-w)
 
 - [Struggle to support Gaza universities as war intensifies](https://www.universityworldnews.com/post.php?story=20250822144233604)
+
+### 🧩 5. Why This Matters
+
+**Understanding the educational domain in Gaza is essential to:**
+
+- Evaluate the effectiveness of online learning during emergencies.
+
+- Identify student and faculty challenges that hinder learning.
+
+- Propose practical solutions to strengthen higher education resilience.
