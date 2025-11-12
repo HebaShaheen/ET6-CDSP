@@ -20,6 +20,12 @@ Gaza Strip has experienced repeated conflict and political instability over the 
 **Temporary closures** of universities due to security threats.
 
 **Limited access** to electricity and internet connectivity.
+    <style>
+      p {
+        color: blue;
+      }
+    </style>
+    <p style="font-weight: bold;">This text is bold.</p>
 
 ## [M2: Data Collection](https://github.com)
 
