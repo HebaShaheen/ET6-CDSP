@@ -28,4 +28,4 @@ It summarizes key findings, highlights knowledge gaps, and organizes the materia
 
 ### 🌐 3. Helpful External Resources
 
-##### - [M2: Higher Education in the Gaza Strip: Challenges and Future Prospects amid and after the October 7 War](https://www.palestine-studies.org/en/node/1656007)
+- [M2: Higher Education in the Gaza Strip: Challenges and Future Prospects amid and after the October 7 War](https://www.palestine-studies.org/en/node/1656007)
