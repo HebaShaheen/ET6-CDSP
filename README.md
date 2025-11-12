@@ -15,17 +15,11 @@ Despite these obstacles, the academic community in Gaza has shown resilience—a
 ### Education in Gaza: 
 Gaza Strip has experienced repeated conflict and political instability over the past decade. These disruptions have severely affected the education system, including universities. According to reports from UNRWA, UNICEF, and local educational authorities, higher education institutions have faced challenges such as:
 
-<p style="color: red;"> Physical damage </p> to campus infrastructure.
+**Physical damage** to campus infrastructure.
 
 **Temporary closures** of universities due to security threats.
 
 **Limited access** to electricity and internet connectivity.
-    <style>
-      p {
-        color: blue;
-      }
-    </style>
-    <p style="font-weight: bold;">This text is bold.</p>
 
 ## [M2: Data Collection](https://github.com)
 

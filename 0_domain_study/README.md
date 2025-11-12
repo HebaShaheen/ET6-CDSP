@@ -1,41 +1,31 @@
-### 1. Education in Gaza: Overview
+# 🎓 Domain Study: Education in Gaza (Universities & Online Learning During War)
+🧭 Overview
 
-Gaza Strip has experienced repeated conflict and political instability over the past decade. These disruptions have severely affected the education system, including universities. According to reports from UNRWA, UNICEF, and local educational authorities, higher education institutions have faced challenges such as:
+This folder contains all background information, reports, and research resources that help us understand how the war in Gaza over the past two years has affected university education, especially through the shift to online learning.
+It summarizes key findings, highlights knowledge gaps, and organizes the materials that support our project research.
 
-Physical damage to campus infrastructure.
+### 📘 1. Key Topics Covered
 
-Temporary closures of universities due to security threats.
+- Impact of war on higher education in Gaza
 
-Limited access to electricity and internet connectivity.
+- Transition to online learning during crisis
 
-### 2. Shift to Online Learning
+- Challenges faced by students and faculty
 
-During the last two years of intensified conflict, universities had to move classes online to ensure academic continuity. While this transition was necessary, it created several challenges:
+- Digital inequality and access issues
 
-Digital divide: Many students lacked reliable internet or devices to attend classes.
+- Psychological and academic effects on students
 
-Limited technical infrastructure: Universities struggled to provide stable online platforms.
+- Resilience and adaptation strategies by universities
 
-Instructor adaptation: Faculty had to quickly redesign courses for online delivery, often without prior training.
+### 🔍 2. Research Summary
 
-Student engagement and performance: Attendance dropped, and academic outcomes were affected due to interruptions, stress, and inadequate resources.
+- **Before the conflict:** Universities in Gaza already faced limited resources and infrastructure.
 
-### 3. Effects of Online Learning in Crisis Contexts
+- **During the conflict:** Many campuses were destroyed or closed. Education shifted online, revealing serious inequalities.
 
-Global research on online learning in crisis situations shows mixed outcomes:
+- **After the shift:** Students faced stress, poor internet, and reduced interaction.
 
-Positive: Flexibility, access to recorded lectures, continuation of education despite disruptions.
+### 🌐 3. Helpful External Resources
 
-Negative: Reduced interaction, learning gaps, and mental health impacts.
-
-In Gaza, preliminary reports suggest that while online learning allowed students to continue their studies, it also amplified inequalities and strained both mental health and academic performance.
-
-### 4. Research Gap
-
-While NGOs and international organizations have collected data on school closures and online education in general, limited research exists specifically on higher education in Gaza during the last two years of war. This project aims to fill that gap by exploring:
-
-How online learning affected university students’ academic performance, engagement, and well-being.
-
-The effectiveness of different online education methods used in crisis conditions.
-
-Opportunities to improve university resilience and digital learning strategies in Gaza.
+## [M2: Higher Education in the Gaza Strip: Challenges and Future Prospects amid and after the October 7 War](https://www.palestine-studies.org/en/node/1656007)
