@@ -43,3 +43,10 @@ It summarizes key findings, highlights knowledge gaps, and organizes the materia
 - Identify student and faculty challenges that hinder learning.
 
 - Propose practical solutions to strengthen higher education resilience.
+
+### ✅ Research Question
+The final, actionable research question:
+
+*How have university students in Gaza experienced education during the last two years of war, especially with the shift to online learning, and what practical solutions can improve access, academic performance, and student wellbeing in such crisis conditions?*
+
+This question is Specific, Relevant, and, Action-oriented.
