@@ -70,9 +70,9 @@ Documentation of small-scale innovations (what worked locally, why, and at what 
 #### 9. Implications for This Project
 
 The literature suggests the project should combine 
-(1) descriptive measurement of access and engagement.
-(2) qualitative insights from students/faculty about barriers and coping strategies.
-(3) evaluation of feasible interventions (low-bandwidth delivery, mental-health linkages, assessment adaptations).
+- (1) descriptive measurement of access and engagement.
+- (2) qualitative insights from students/faculty about barriers and coping strategies.
+- (3) evaluation of feasible interventions (low-bandwidth delivery, mental-health linkages, assessment adaptations).
 This mixed-methods approach aligns with calls in the literature for context-sensitive, evidence-driven solutions.
 
 Suggested sources & where to look (for adding citations)
