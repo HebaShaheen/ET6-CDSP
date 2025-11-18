@@ -53,21 +53,8 @@ Despite constraints, universities and NGOs in Gaza have shown adaptive responses
 
 Higher education response in conflict requires coordination among universities, ministries, international agencies, and donors. Reports suggest gaps in funding targeting higher education, ad-hoc coordination, and fragmented support for digital infrastructure and teacher training. The literature calls for integrated plans that combine short-term emergency measures with medium-term investments in infrastructure and capacity-building.
 
-#### 8. Key Gaps / Opportunities for Research
 
-Existing literature and field reports identify important gaps that your project can address:
-
-Quantitative evidence on learning outcomes for Gaza university students pre- vs. during-conflict is sparse and inconsistent.
-
-Systematic measurement of access (who could participate, how often, via what device/connection) is limited.
-
-Comparative analysis of teaching modalities (live vs. asynchronous vs. mobile) under crisis conditions is lacking.
-
-Evaluation of psychosocial supports integrated with pedagogy for improving outcomes is under-researched.
-
-Documentation of small-scale innovations (what worked locally, why, and at what cost) is fragmented.
-
-#### 9. Implications for This Project
+#### 8. Implications for This Project
 
 The literature suggests the project should combine 
 - (1) descriptive measurement of access and engagement.
