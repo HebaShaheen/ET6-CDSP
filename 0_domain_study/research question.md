@@ -40,13 +40,13 @@ By focusing on current conditions, barriers, and feasible improvements, this que
 - Data Access:
 University-level data in Gaza may be limited due to destruction, displacement, and restricted operations. We may rely on:
 
-- - Student surveys
+   - Student surveys
 
-- - Local reports
+   - Local reports
 
-- - NGO publications
+   - NGO publications
 
-- - Academic articles
+   - Academic articles
 
 - Infrastructure Limits:
 Internet instability, electricity cuts, and device shortages affect both student participation and data collection.
