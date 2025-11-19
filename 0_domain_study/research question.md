@@ -37,7 +37,7 @@ By focusing on current conditions, barriers, and feasible improvements, this que
 
 ## Constraints We Considered
 
-- Data Access:
+- **Data Access**:
 University-level data in Gaza may be limited due to destruction, displacement, and restricted operations. We may rely on:
 
    - Student surveys
@@ -48,14 +48,14 @@ University-level data in Gaza may be limited due to destruction, displacement, a
 
    - Academic articles
 
-- Infrastructure Limits:
+- **Infrastructure Limits**:
 Internet instability, electricity cuts, and device shortages affect both student participation and data collection.
 
-- Feasibility:
+- **Feasibility**:
 Our focus stays on what is realistic in an emergency context:
 simple platforms, resilience strategies, and low-cost solutions.
 
-- Scope:
+- **Scope**:
 We concentrate only on universities, not schools, and only on the last two years of conflict.
 
 ---
