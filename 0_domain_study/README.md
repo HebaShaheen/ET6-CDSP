@@ -1,7 +1,7 @@
 # 🎓 Domain Study: Education in Gaza (Universities & Online Learning During War)
 ## 🧭 Overview
 
-This folder contains all background information, reports, and research resources that help us understand how the war in Gaza over the past two years has affected university education, especially through the shift to online learning.
+This folder contains all background information, literature review, and research question that help us understand how the war in Gaza over the past two years has affected university education, especially through the shift to online learning.
 It summarizes key findings, highlights knowledge gaps, and organizes the materials that support our project research.
 
 ### 📘 1. Key Topics 
@@ -26,7 +26,7 @@ It summarizes key findings, highlights knowledge gaps, and organizes the materia
 
 - **After the shift:** Students faced stress, poor internet, and reduced interaction.
 
-### 🌐 3. Helpful External Resources
+### 🌐 3.  Resarch Resources
 
 - [Higher Education in the Gaza Strip: Challenges and Future Prospects amid and after the October 7 War](https://www.palestine-studies.org/en/node/1656007)
 
@@ -34,17 +34,8 @@ It summarizes key findings, highlights knowledge gaps, and organizes the materia
 
 - [Struggle to support Gaza universities as war intensifies](https://www.universityworldnews.com/post.php?story=20250822144233604)
 
-### 🧩 5. Why This Matters
 
-**Understanding the educational domain in Gaza is essential to:**
-
-- Evaluate the effectiveness of online learning during emergencies.
-
-- Identify student and faculty challenges that hinder learning.
-
-- Propose practical solutions to strengthen higher education resilience.
-
-### ✅ Research Question
+### ✅ 4. Research Question
 The final, actionable research question:
 
 *How have university students in Gaza experienced education during the last two years of war, especially with the shift to online learning, and what practical solutions can improve access, academic performance, and student wellbeing in such crisis conditions?*
