@@ -41,4 +41,4 @@ The final, actionable research question:
 *How have university students in Gaza experienced education during the last two years of war, especially with the shift to online learning, and what practical solutions can improve access, academic performance, and student wellbeing in such crisis conditions?*
 
 This question is Specific, Relevant, and, Action-oriented.
-[`read more`](./research question.md)  
+[`read more`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/0_domain_study/research%20question.md)  
