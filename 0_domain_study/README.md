@@ -4,6 +4,16 @@
 This folder contains all background information, literature review, and research question that help us understand how the war in Gaza over the past two years has affected university education, especially through the shift to online learning.
 It summarizes key findings, highlights knowledge gaps, and organizes the materials that support our project research.
 
+## 🔍 Key Files in This Folder
+
+- [`constraints.md`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/0_domain_study/constraints.md)  
+  → Project constraints for data.   
+- [`research question.md`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/0_domain_study/research%20question.md)  
+  → Main research question and supporting queries, scoped by feasibility.  
+- [`literature review.md`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/0_domain_study/literature%20review.md)  
+  → Summary of findings.  
+
+
 ### 📘 1. Key Topics 
 
 - Impact of war on higher education in Gaza
