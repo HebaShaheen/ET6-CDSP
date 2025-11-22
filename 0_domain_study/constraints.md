@@ -1,22 +1,24 @@
-## Constraints We Considered
+## Constraints Considered
 
-- **Data Access**:
-University-level data in Gaza may be limited due to destruction, displacement, and restricted operations. We may rely on:
+**Data Access**:
+Data on student adaptability and online learning effectiveness may vary by region and educational level. We will rely on:
 
-   - Student surveys
+- International and national surveys (e.g., UNESCO, OECD, World Bank)
 
-   - Local reports
+- -Academic articles and journals
 
-   - NGO publications
+- Open-access datasets from platforms like Kaggle or institutional repositories
 
-   - Academic articles
+- Reports from educational NGOs
 
-- **Infrastructure Limits**:
-Internet instability, electricity cuts, and device shortages affect both student participation and data collection.
+**Technology & Infrastructure Limits**:
+Differences in internet access, device availability, and digital literacy may influence both student participation and the quality of the data collected.
 
-- **Feasibility**:
-Our focus stays on what is realistic in an emergency context:
-simple platforms, resilience strategies, and low-cost solutions.
+**Feasibility**:
+We focus on what can realistically be measured with available data: student engagement, academic performance indicators, self-reported adaptability, and satisfaction with online learning.
 
-- **Scope**:
-We concentrate only on universities, not schools, and only on the last two years of conflict.
+**Scope**:
+The study covers multiple educational levels (secondary and higher education) and focuses on the years 2020–2024, encompassing the post-pandemic adaptation period.
+
+**Generalizability**:
+Results may not fully apply to all regions due to differences in online learning infrastructure, cultural contexts, and policies. Cross-comparison will consider these limitations.
