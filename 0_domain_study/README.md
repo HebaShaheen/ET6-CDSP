@@ -1,8 +1,7 @@
-# 🎓 Domain Study: Education in Gaza (Universities & Online Learning During War)
+# 🎓 Domain Study: Students’ Adaptability and the Effectiveness of Online Learning in Recent Years
 ## 🧭 Overview
 
-This folder contains all background information, literature review, and research question that help us understand how the war in Gaza over the past two years has affected university education, especially through the shift to online learning.
-It summarizes key findings, highlights knowledge gaps, and organizes the materials that support our project research.
+This folder contains all background information, literature review, and research question. This domain study examines the global shift toward online learning and how students have adapted in the years following the COVID-19 pandemic. With digital education becoming an essential part of modern learning environments, understanding students’ adaptability, engagement, and academic performance is crucial for evaluating the long-term effectiveness of online education.
 
 ## 🔍 Key Files in This Folder
 
@@ -16,37 +15,32 @@ It summarizes key findings, highlights knowledge gaps, and organizes the materia
 
 ### 📘 1. Key Topics 
 
-- Impact of war on higher education in Gaza
+- Evolution of online learning from 2020 to 2024
 
-- Transition to online learning during crisis
+- Student adaptability to virtual classrooms
 
-- Challenges faced by students and faculty
+- Academic effectiveness and learning outcomes
 
-- Digital inequality and access issues
+- Digital literacy and access to technology
 
-- Psychological and academic effects on students
+- Motivation, engagement, and self-regulation
 
-- Resilience and adaptation strategies by universities
+- Psychological impact of remote learning
 
-### 🔍 2. Research Summary
 
-- **Before the conflict:** Universities in Gaza already faced limited resources and infrastructure.
+### 🌐 2.  Resarch Resources
 
-- **During the conflict:** Many campuses were destroyed or closed. Education shifted online, revealing serious inequalities.
+- [Strengths and Weaknesses of Online Learning](https://www.uis.edu/ion/resources/tutorials/overview/strengths-weaknesses#weaknesses)
 
-- **After the shift:** Students faced stress, poor internet, and reduced interaction.
+- [Investigating the Effectiveness of Online Learning in the Post-Coronavirus (COVID-19) Era](https://sdme.kmu.ac.ir/article_92710.html)
 
-### 🌐 3.  Resarch Resources
-
-- [Higher Education in the Gaza Strip: Challenges and Future Prospects amid and after the October 7 War](https://www.palestine-studies.org/en/node/1656007)
-
-- [The impact of Gaza war: online educational challenges and mental health of university students](https://mecp.springeropen.com/articles/10.1186/s43045-025-00542-w)
-
-- [Struggle to support Gaza universities as war intensifies](https://www.universityworldnews.com/post.php?story=20250822144233604)
+- [Students’ online learning adaptability and their continuous usage intention across different disciplines](https://www.researchgate.net/publication/375747216_Students'_online_learning_adaptability_and_their_continuous_usage_intention_across_different_disciplines)
 
 
 ### ✅ 4. Research Question
 The final, actionable research question:
 
-*How have university students in Gaza experienced education during the last two years of war, especially with the shift to online learning, and what practical solutions can improve access, academic performance, and student wellbeing in such crisis conditions?*
+*How have students across different educational levels adapted to online learning in recent years, and which factors most strongly influence the effectiveness of online education in terms of engagement, academic performance, and satisfaction?*
 [`read more`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/0_domain_study/research%20question.md)  
+
+### ✅ 5. Research Summary
