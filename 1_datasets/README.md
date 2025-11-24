@@ -9,17 +9,29 @@ This folder contains all datasets used in our analysis of **students’ adaptabi
 - **Source:** Kaggle – *“Online Education System - Review”*
 - **Link:** https://www.kaggle.com/datasets/sujaradha/online-education-system-review
 - **Description:**  
-  Contains data about students’ adaptability to online learning, including:
-  - Level of Education 
-  - Number of Subjects 
-  - Device type 
-  - Economic status  
-  - Family size 
-  - Internet facility in your locality
-  - Study time (Hours) 
-  - Age
-  - Home Location
-  - Engaged in group studies?
-  - level of satisfaction
+  To check out the satisfactory level of the learners, review was conducted.
 
+    - Gender – Male, Female
+    - Home Location – Rural, Urban
+    - Level of Education – Post Graduate, School, Under Graduate
+    - Age – Years
+    - Number of Subjects – 1- 20
+    - Device type used to attend classes – Desktop, Laptop, Mobile
+    - Economic status – Middle Class, Poor, Rich
+    - Family size – 1 -10
+    - Internet facility in your locality – Number scale (Very Bad to Very Good)
+    - Are you involved in any sports? – Yes, No
+    - Do elderly people monitor you? – Yes, No
+    - Study time – Hours
+    - Sleep time – Hours
+    - Time spent on social media – Hours
+    - Interested in Gaming? – Yes, No
+    - Have separate room for studying? – Yes, No
+    - Engaged in group studies? – Yes, No
+    - Average marks scored before pandemic in traditional classroom – range
+    - Your interaction in online mode - Number scale (Very Bad to Very Good)
+    - Clearing doubts with faculties in online mode - Number scale (Very Bad to Very Good)
+    - Interested in? – Practical, Theory, Both
+    - Performance in online - Number scale (Very Bad to Very Good)
+    - Your level of satisfaction in Online Education – Average, Bad, Good
 ---
