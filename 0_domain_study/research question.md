@@ -16,7 +16,8 @@ This research question help to know the student adaptation and the factors that 
 
 - Key influencing factors, such as technology access, instructional design, and teaching strategies.
 
-This question covers both experiences and drivers of effectiveness, offering a complete picture of modern online learning.
+**This question covers both experiences and drivers of effectiveness, offering a complete picture of modern online learning.**
+
 ---
 
 ## Why This Matters
