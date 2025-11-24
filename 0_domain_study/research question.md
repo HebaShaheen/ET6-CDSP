@@ -1,50 +1,24 @@
 ## Research Question
 
-**How have university students in Gaza experienced education during the last two years of war, especially with the shift to online learning, and what practical solutions can improve access, academic performance, and student wellbeing in such crisis conditions?**
+**How have students across different educational levels adapted to online learning in recent years, and which factors most strongly influence the effectiveness of online education in terms of engagement, academic performance, and satisfaction?**
 
-This research question emerges directly from the lived reality in Gaza over the past two years and from the observed challenges university students faced in continuing their education under extreme conditions.
-
----
-
-## We focus specifically on:
-
-- Higher education, where disruptions have long-term consequences for careers and graduation.
-
-- Online learning during war, which became the primary mode of instruction due to unsafe campuses and destroyed infrastructure.
-
-- Student wellbeing and access, since academic performance is tightly connected to mental health, electricity shortages, and internet connectivity.
-
-This question addresses both impact and solutions:
-How the war reshaped learning—and what changes can realistically improve the situation.
+This research question help to know the student adaptation and the factors that affect the online learning.
 
 ---
 
-## Why This Question Is Actionable
+## We Focus Specifically On:
 
-Our question pushes us to investigate real, measurable, and solvable problems. It requires us to:
+- Multiple educational levels (schools, universities) to capture a broad understanding of online learning.
 
-- Document how students accessed online learning (internet, devices, platforms).
+- Student adaptability, including digital literacy, motivation, self-regulation, and ability to cope with online environments.
 
-- Analyze how academic performance, attendance, or participation changed.
+- Effectiveness of online learning, measured through engagement, academic outcomes, satisfaction, and perceived usefulness.
 
-- Understand mental health impacts and their relationship to learning quality.
+- Key influencing factors, such as technology access, instructional design, and teaching strategies.
 
-- Identify practical solutions that universities could implement.
-
-By focusing on current conditions, barriers, and feasible improvements, this question leads directly to actionable outcomes rather than abstract descriptions.
-
+This question covers both experiences and drivers of effectiveness, offering a complete picture of modern online learning.
 ---
 
 ## Why This Matters
 
-This research question addresses a crisis with long-term consequences for an entire generation of Gaza’s university students. By studying what worked, what failed, and what can be improved, the project aims to produce insights that are:
-
-- Useful for universities planning future emergency response strategies,
-
-- Valuable for NGOs supporting higher education,
-
-- Practical for students and faculty navigating online learning barriers,
-
-- Relevant to any region where conflict forces rapid transitions to remote learning.
-
-By identifying students’ real experiences and effective solutions, this research supports more equitable, resilient higher education during and after crisis.
+Online learning has become a permanent part of global education, not just a temporary response to COVID-19. By exploring students’ adaptability and the factors that shape online learning success.
