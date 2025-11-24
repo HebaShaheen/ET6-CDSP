@@ -5,7 +5,7 @@ Data on student adaptability and online learning effectiveness may vary by regio
 
 - International and national surveys (e.g., UNESCO, OECD, World Bank)
 
-- -Academic articles and journals
+- Academic articles and journals
 
 - Open-access datasets from platforms like Kaggle or institutional repositories
 
