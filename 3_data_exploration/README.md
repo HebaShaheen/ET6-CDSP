@@ -3,7 +3,7 @@ This project explores three datasets related to online education, adaptability, 
 
 ### Dataset 1: 
 
-File: **[`Cleaned-ONLINE EDUCATION SYSTEM REVIEW.csv`]**(https://github.com/HebaShaheen/ET6-CDSP/blob/main/2_data_preparation/Cleaned_data/Cleaned-ONLINE%20EDUCATION%20SYSTEM%20REVIEW.csv)
+File: **[`Cleaned-ONLINE EDUCATION SYSTEM REVIEW.csv`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/2_data_preparation/Cleaned_data/Cleaned-ONLINE%20EDUCATION%20SYSTEM%20REVIEW.csv)**
 
 **Overview**
 
@@ -23,7 +23,7 @@ This notebook analyzes students’ learning conditions, engagement, and academic
 
 ### Dataset 2: 
 
-File: **[`Cleaned-students_adaptability_level_online_education.csv`]**(https://github.com/HebaShaheen/ET6-CDSP/blob/main/2_data_preparation/Cleaned_data/Cleaned-students_adaptability_level_online_education.csv)
+File: **[`Cleaned-students_adaptability_level_online_education.csv`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/2_data_preparation/Cleaned_data/Cleaned-students_adaptability_level_online_education.csv)**
 
 **Overview**
 
@@ -41,7 +41,7 @@ This notebook explores students’ adaptivity levels (Low, Moderate, High) in on
 
 ### Dataset 3: 
 
-File: **[`Exploration-Cleaned-COVID-19 Survey Student Responses.csv`]**(https://github.com/HebaShaheen/ET6-CDSP/blob/main/2_data_preparation/Cleaned_data/Cleaned-COVID-19%20Survey%20Student%20Responses.csv)
+File: **[`Exploration-Cleaned-COVID-19 Survey Student Responses.csv`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/2_data_preparation/Cleaned_data/Cleaned-COVID-19%20Survey%20Student%20Responses.csv)**
 
 **Overview**
 
