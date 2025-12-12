@@ -11,7 +11,7 @@ This folder contains the data analysis files. Building upon the exploratory data
 - **[`data_analysis2.ipynb`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/4_data_analysis/data_analysis2.ipynb)** for first dataset
 - **[`data_analysis3.ipynb`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/4_data_analysis/data_analysis3.ipynb)** for first dataset
 
-##  Dataset 1: **[`First dataset`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/4_data_analysis/data_analysis.ipynb)**
+##  Dataset 1: **[`First dataset`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/3_data_exploration/UpdatedData/Exploration-Cleaned-ONLINE%20EDUCATION%20SYSTEM%20REVIEW.csv)**
 
 **Summary of Findings**
 
@@ -27,7 +27,7 @@ This folder contains the data analysis files. Building upon the exploratory data
 
 **Key insight**: Academic performance remained relatively stable and was not strongly driven by individual lifestyle variables in this dataset.
 
-## Dataset 2: 
+## Dataset 2: **[`Second dataset`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/3_data_exploration/UpdatedData/Exploration-Cleaned-students_adaptability_level_online_education.csv)**
 
 **Summary of Findings**
 
@@ -43,7 +43,7 @@ This folder contains the data analysis files. Building upon the exploratory data
 
 **Key insight:** Adaptability to online learning is shaped more by resources and infrastructure than by personal characteristics.
 
-## Dataset 3:
+## Dataset 3: **[`Third dataset`](https://github.com/HebaShaheen/ET6-CDSP/blob/main/3_data_exploration/UpdatedData/Exploration-Cleaned-COVID-19%20Survey%20Student%20Responses.csv)**
 
 **Summary of Findings**
 
