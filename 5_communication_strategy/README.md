@@ -1,7 +1,7 @@
 # Communication Strategy
 ### Goal
 
-The goal of this phase is to ensure that the insights from the data analysis reach audiences who can learn from and reflect on students’ online learning experiences. Rather than simply presenting results, this strategy outlines how the findings can be communicated clearly, accessibly, and meaningfully to relevant audiences.
+The goal is to ensure that the insights from the data analysis reach audiences who can learn from and reflect on students’ online learning experiences. Rather than simply presenting results, this strategy outlines how the findings can be communicated clearly, accessibly, and meaningfully to relevant audiences.
 
 ### The Core Artifact:  
 
@@ -23,8 +23,8 @@ primary communication artifact is this GitHub repository, which contains:
 
 - Reusable: future students or researchers can build on the work.
 
-### Target Audiences and Rationale
-- Primary Audience: Students and Educators
+### Target Audiences
+**Primary Audience: Educators and Students**
 
 **Why**
 They are directly affected by online learning and can relate to findings on performance, adaptability, and time utilization.
@@ -35,7 +35,7 @@ They are directly affected by online learning and can relate to findings on perf
 
 - Evidence-based reflection on online learning challenges.
 
-- Secondary Audience: Academic Reviewers and Peers
+**Secondary Audience: Academic Reviewers and Peers**
 
 **Why**
 This project demonstrates applied data exploration, feature engineering, and interpretation across multiple datasets.
