@@ -1,9 +1,9 @@
-## Literature Review — Universities in Gaza & Online Learning During War
+## Literature Review — Student Adaptation to Online Learning
 #### Overview
 
 The global shift to online learning following the COVID-19 pandemic has transformed educational delivery across all levels. This literature review examines students’ adaptability, engagement, and academic outcomes in virtual learning environments, highlighting both opportunities and challenges. Key themes emerging from the research include: 
 - **(1)** digital access and technological readiness.
-- **(2)** Pedagogical Adaptation & Quality of Instruction.
+- **(2)** Adaptation & Quality of Instruction.
 - **(3)** student engagement and learning outcomes.
 - **(4)** psychological and motivational factors affecting online learning effectiveness.
 
