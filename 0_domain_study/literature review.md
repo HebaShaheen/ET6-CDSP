@@ -1,4 +1,4 @@
-## Literature Review — Student Adaptation to Online Learning
+## Literature Review — Understanding Students’ Online Learning Experiences
 #### Overview
 
 The global shift to online learning following the COVID-19 pandemic has transformed educational delivery across all levels. This literature review examines students’ adaptability, engagement, and academic outcomes in virtual learning environments, highlighting both opportunities and challenges. Key themes emerging from the research include: 
