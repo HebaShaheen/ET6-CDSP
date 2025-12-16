@@ -1,4 +1,19 @@
 # Communication Strategy 
+
+Welcome to the final presentation materials for the Data Science Project (ET6-CDSP). This folder contains our presentation slides.
+
+## Contents of This Folder
+
+- **Presentation Slides**: A detailed powerpoint slide outlining the research process.
+
+
+## 🎥 Access the Final Presentation
+
+You can view my final presentation slides here:  
+
+👉 **[Final Presentation](https://docs.google.com/presentation/d/1usIJS9KMArmv9_sDIIdrMVVinBxDvBHplg6mesc6BC0/edit?usp=sharing)**
+
+
 ### Goal
 
 The goal is to ensure that the insights from the data analysis reach audiences who can learn from and reflect on students’ online learning experiences. Rather than simply presenting results, this strategy outlines how the findings can be communicated clearly, accessibly, and meaningfully to relevant audiences.
