@@ -38,28 +38,28 @@ They are directly affected by online learning and can relate to findings on perf
 **Secondary Audience: Academic Reviewers and Peers**
 
 **Why**
-This project demonstrates applied data exploration, feature engineering, and interpretation across multiple datasets.
+This project demonstrates applied data exploration and interpretation across multiple datasets.
 
 **Value to them**
 
 - A clear example of end-to-end exploratory data analysis.
 
-- Reproducible workflows and well-documented insights.
+- Well-documented insights.
 
-- Strategic Audience: Future Learners and Researchers
+**Strategic Audience: Future Learners and Researchers**
 
 **Why**
 Students interested in data science or education research may use this work as a reference.
 
 **Value to them**
 
-Clean datasets for practice.
+- Clean datasets for practice.
 
-Examples of how to move from raw data to meaningful insights.
+- Examples of how to move from raw data to meaningful insights.
 
 ### Key Messages
 
-- The communication will emphasize the following messages derived from the analysis:
+**The communication will emphasize the following messages derived from the analysis:**
 
 - Student performance often improves after online learning, but outcomes vary by engagement and context.
 
@@ -73,19 +73,19 @@ Examples of how to move from raw data to meaningful insights.
 
 **The findings will be shared through:**
 
-- Colab Notebooks with inline explanations and visualizations,
+- GitHub README summarizing datasets, methods, and results.
 
-- README summarizing datasets, methods, and results,
+- Colab Notebooks with inline explanations and visualizations.
 
-- charts such as histograms, boxplots, and bar charts to highlight patterns.
+- Presentation Slides.
 
-- If needed, the analysis could also be adapted into presentation slides or a short written article hosted externally.
+That include Charts such as histograms, boxplots, and bar charts to highlight patterns.
 
 ### Communication Channels
 
-- GitHub repository for code, data, and documentation
-
-- Course submission platform for evaluation
+- GitHub
+- Linkedin
+- resarch platforms
 
 ### Expected Impact
 
