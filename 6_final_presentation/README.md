@@ -7,7 +7,7 @@ Welcome to the final presentation materials for the Data Science Project (ET6-CD
 - **Presentation Slides**: A detailed powerpoint slide outlining the research process.
 
 
-### 🎥 Access the Final Presentation
+### Access the Final Presentation
 
 You can view my final presentation slides here:  
 
