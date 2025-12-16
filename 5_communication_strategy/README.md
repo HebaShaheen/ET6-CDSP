@@ -1,4 +1,4 @@
-# Communication Strategy
+# Communication Strategy 
 ### Goal
 
 The goal is to ensure that the insights from the data analysis reach audiences who can learn from and reflect on students’ online learning experiences. Rather than simply presenting results, this strategy outlines how the findings can be communicated clearly, accessibly, and meaningfully to relevant audiences.
